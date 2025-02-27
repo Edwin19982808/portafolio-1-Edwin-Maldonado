@@ -82,7 +82,20 @@ button::after {
 
 }
 
-.card ul{
+.card h4 {
+    font-family: "poppins",serif;
+    color: #172B4D;
+    text-decoration: none;
+    font-weight: 700;
+    font-size: 32px;
+}
+
+.card ul {
     display: flex;
     gap: 4%;
+}
+
+.card ul span {
+    display: flex;
+    gap: 5%;
 }
